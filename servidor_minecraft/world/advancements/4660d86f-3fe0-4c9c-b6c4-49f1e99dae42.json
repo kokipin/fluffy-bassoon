@@ -720,6 +720,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/bat": {
+    "criteria": {
+      "action": "2025-02-17 21:21:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-02-16 21:00:41 +0000"

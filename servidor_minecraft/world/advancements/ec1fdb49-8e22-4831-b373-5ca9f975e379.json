@@ -893,6 +893,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/first_blood": {
+    "criteria": {
+      "flower": "2025-02-17 21:21:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2025-02-16 23:38:09 +0000"
