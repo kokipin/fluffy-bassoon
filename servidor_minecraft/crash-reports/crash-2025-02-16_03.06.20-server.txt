@@ -1,0 +1,180 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  MSICCoreMod (MyServerIsCompatible-1.12.2-1.0.jar)
+  LoadingPlugin (TickDynamic-1.12.2-1.0.3.jar)
+  MicdoodlePlugin (Galacticraft-1.12.2-4.0.6.jar)
+  ParticleCullingLoadingPlugin (particleculling-1.12.2-v1.3.1.jar)
+  MekanismCoremod (Mekanism-1.12.2-9.8.3.390.jar)
+  Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (foamfix-0.10.14-1.12.2.jar)
+  SpartanWeaponry-MixinLoader (SpartanWeaponry-1.12.2-1.6.0.jar)
+  iceandfire (iceandfire-1.9.1-1.12.2.jar)
+  CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+  Born in a Barn (Born In A Barn V1.8-1.12-1.1.jar)
+  EntityCullingEarlyLoader (entityculling-1.12.2-1.6.3.jar)
+  llibrary (llibrary-core-1.0.11-1.12.2.jar)
+  CreativePatchingLoader (CreativeCore_v1.10.71_mc1.12.2.jar)
+  MixinBooter (!mixinbooter-10.5.jar)
+  MalisisCorePlugin (malisiscore-1.12.2-6.5.1.jar)
+  SurgeLoadingPlugin (Surge-1.12.2-2.0.77.jar)
+  Better Biome Blend (betterbiomeblend-1.12.2-1.1.7-forge.jar)
+  GITDLoadingPlugin (getittogetherdrops-1.12.2-v1.0.jar)
+  ClsPlugin (CustomLoadingScreen-1.12.2-1.5.6.jar)
+  FutureMC (Future-MC-0.2.21.jar)
+Contact their authors BEFORE contacting forge
+
+// On the bright side, I bought you a teddy bear!
+
+Time: 2/16/25 3:06 AM
+Description: Exception in server tick loop
+
+Missing Mods:
+	unknown : need any: have missing
+
+net.minecraftforge.fml.common.MissingModsException: Mod futuremc (Future MC) requires [forgelin]
+	at net.minecraftforge.fml.common.Loader.sortModList(Loader.java:266)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:572)
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98)
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+	at java.lang.Thread.run(Thread.java:750)
+
+No Mixin Metadata is found in the Stacktrace.
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 6.5.0-1025-azure
+	Java Version: 1.8.0_442, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 2023425296 bytes (1929 MB) / 2674917376 bytes (2551 MB) up to 11453595648 bytes (10923 MB)
+	JVM Flags: 2 total; -Xms2G -Xmx12G
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.5.2860 71 mods loaded, 71 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID                  | Version                    | Source                                             | Signature                                |
+	|:----- |:------------------- |:-------------------------- |:-------------------------------------------------- |:---------------------------------------- |
+	| L     | minecraft           | 1.12.2                     | minecraft.jar                                      | None                                     |
+	| L     | mcp                 | 9.42                       | minecraft.jar                                      | None                                     |
+	| L     | FML                 | 8.0.99.99                  | forge-1.12.2-14.23.5.2860.jar                      | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| L     | forge               | 14.23.5.2860               | forge-1.12.2-14.23.5.2860.jar                      | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| L     | creativecoredummy   | 1.0.0                      | minecraft.jar                                      | None                                     |
+	| L     | micdoodlecore       | 4.0.6                      | minecraft.jar                                      | None                                     |
+	| L     | mixinbooter         | 10.5                       | minecraft.jar                                      | None                                     |
+	| L     | foamfixcore         | 7.7.4                      | minecraft.jar                                      | None                                     |
+	| L     | aiimprovements      | 0.0.1.3                    | AIImprovements-1.12-0.0.1b3.jar                    | None                                     |
+	| L     | animania            | 2.0.3.28                   | animania-1.12.2-base-2.0.3.28.jar                  | None                                     |
+	| L     | appleskin           | 1.0.14                     | AppleSkin-mc1.12-1.0.14.jar                        | None                                     |
+	| L     | aquaculture         | 1.6.8                      | Aquaculture-1.12.2-1.6.8.jar                       | None                                     |
+	| L     | artifacts           | 1.12.2-1.2.4               | artifacts-1.12.2-1.2.4.jar                         | None                                     |
+	| L     | baubles             | 1.5.2                      | Baubles-1.12-1.5.2.jar                             | None                                     |
+	| L     | byg                 | 1.7.1                      | BiomesYouGo1.7.1.jar                               | None                                     |
+	| L     | clumps              | 3.1.2                      | Clumps-3.1.2.jar                                   | None                                     |
+	| L     | connectedglass      | 1.1.1                      | connectedglass-1.1.1-mc1.12.jar                    | None                                     |
+	| L     | corpse              | 1.12.2-1.0.8               | corpse-1.12.2-1.0.8.jar                            | None                                     |
+	| L     | craftstudioapi      | 1.0.0                      | CraftStudioAPI-universal-1.0.1.95-mc1.12-alpha.jar | None                                     |
+	| L     | creativecore        | 1.10.0                     | CreativeCore_v1.10.71_mc1.12.2.jar                 | None                                     |
+	| L     | cyclopscore         | 1.6.7                      | CyclopsCore-1.12.2-1.6.7.jar                       | None                                     |
+	| L     | ebwizardry          | 4.3.14                     | ElectroblobsWizardry-4.3.14.jar                    | None                                     |
+	| L     | elevatorid          | 1.3.14                     | ElevatorMod-1.12.2-1.3.14.jar                      | None                                     |
+	| L     | evilcraft           | 0.10.78                    | EvilCraft-1.12.2-0.10.78.jar                       | None                                     |
+	| L     | evilcraftcompat     | 1.0.0                      | EvilCraft-1.12.2-0.10.78.jar                       | None                                     |
+	| L     | extraplanets        | 1.12.2-0.8.0               | ExtraPlanets-1.12.2-0.8.0.jar                      | None                                     |
+	| L     | extra_spells        | 1.2.0                      | ExtraSpells-1.12.2-1.2.0.jar                       | None                                     |
+	| L     | extrautils2         | 1.0                        | extrautils2-1.12-1.9.9.jar                         | None                                     |
+	| L     | fastfurnace         | 1.3.1                      | FastFurnace-1.12.2-1.3.1.jar                       | None                                     |
+	| L     | foamfix             | 0.10.14-1.12.2             | foamfix-0.10.14-1.12.2.jar                         | None                                     |
+	| L     | fossil              | 8.0.5                      | fossilsarcheology-8.0.6.jar                        | None                                     |
+	| L     | futuremc            | 0.2.6                      | Future-MC-0.2.21.jar                               | None                                     |
+	| L     | galacticraftcore    | 4.0.6                      | Galacticraft-1.12.2-4.0.6.jar                      | None                                     |
+	| L     | galacticraftplanets | 4.0.6                      | Galacticraft-1.12.2-4.0.6.jar                      | None                                     |
+	| L     | getittogetherdrops  | 1.0                        | getittogetherdrops-1.12.2-v1.0.jar                 | None                                     |
+	| L     | waila               | 1.8.26                     | Hwyla-1.8.26-B41_1.12.2.jar                        | None                                     |
+	| L     | iceandfire          | 1.9.1                      | iceandfire-1.9.1-1.12.2.jar                        | None                                     |
+	| L     | infernalmobs        | 1.7.6                      | InfernalMobs-1.12.2.jar                            | None                                     |
+	| L     | ironbackpacks       | 1.12.2-3.0.8-12            | IronBackpacks-1.12.2-3.0.8-12.jar                  | None                                     |
+	| L     | jei                 | 4.16.1.301                 | jei_1.12.2-4.16.1.301.jar                          | None                                     |
+	| L     | lunatriuscore       | 1.2.0.42                   | LunatriusCore-1.12.2-1.2.0.42-universal.jar        | None                                     |
+	| L     | malisiscore         | 1.12.2-6.5.1-SNAPSHOT      | malisiscore-1.12.2-6.5.1.jar                       | None                                     |
+	| L     | malisisdoors        | 1.12.2-7.3.0               | malisisdoors-1.12.2-7.3.0.jar                      | None                                     |
+	| L     | mca                 | 6.1.0                      | MCA-1.12.2-6.1.0-universal.jar                     | None                                     |
+	| L     | mekanism            | 1.12.2-9.8.3.390           | Mekanism-1.12.2-9.8.3.390.jar                      | None                                     |
+	| L     | mjrlegendslib       | 1.12.2-1.2.1               | MJRLegendsLib-1.12.2-1.2.1.jar                     | None                                     |
+	| L     | mowziesmobs         | 1.5.8                      | mowziesmobs-1.5.8.jar                              | None                                     |
+	| L     | msic                | 1.0                        | MyServerIsCompatible-1.12.2-1.0.jar                | None                                     |
+	| L     | overlord            | 2.4.14                     | Overlord-1.12.2-2.4.14.jar                         | None                                     |
+	| L     | harvestcraft        | 1.12.2zb                   | Pam's HarvestCraft 1.12.2zg.jar                    | None                                     |
+	| L     | patchouli           | 1.0-23.6                   | Patchouli-1.0-23.6.jar                             | None                                     |
+	| L     | performant          | 1.12.2-1.5                 | performant-1.11.jar                                | None                                     |
+	| L     | playerrevive        | 1.0                        | PlayerRevive_v1.2.40_mc1.12.2.jar                  | None                                     |
+	| L     | reap                | 1.5.2                      | reap-1.5.2.jar                                     | None                                     |
+	| L     | spartanfire         | 0.08                       | spartanfire-0.08.jar                               | None                                     |
+	| L     | spartanshields      | 1.5.5                      | SpartanShields-1.12.2-1.5.5.jar                    | None                                     |
+	| L     | spartanweaponry     | 1.6.0                      | SpartanWeaponry-1.12.2-1.6.0.jar                   | None                                     |
+	| L     | stackie             | 1.6.0.48                   | Stackie-1.12.2-1.6.0.48-universal.jar              | None                                     |
+	| L     | surge               | 2.0.77                     | Surge-1.12.2-2.0.77.jar                            | None                                     |
+	| L     | tfspellpack         | 1.1.0                      | TFSpellPack-1.1.0-MC1.12.2.jar                     | None                                     |
+	| L     | tickdynamic         | 1.0.3                      | TickDynamic-1.12.2-1.0.3.jar                       | None                                     |
+	| L     | tiquality           | FAT-1.12.2-GAMMA-1.8.1-124 | Tiquality-FAT-1.12.2-GAMMA-1.8.1-124.jar           | None                                     |
+	| L     | totemic             | 1.12.2-0.11.7              | Totemic-1.12.2-0.11.7.jar                          | None                                     |
+	| L     | twilightforest      | 3.11.1021                  | twilightforest-1.12.2-3.11.1021-universal.jar      | None                                     |
+	| L     | teamlapen-lib       | 1.6.2                      | Vampirism-1.12.2-1.6.2.jar                         | None                                     |
+	| L     | vampirism           | 1.6.2                      | Vampirism-1.12.2-1.6.2.jar                         | None                                     |
+	| L     | waystones           | 4.1.0                      | Waystones_1.12.2-4.1.0.jar                         | None                                     |
+	| L     | wizardryutils       | 1.12.2-1.2.3               | WizardryUtils-1.12.2-1.2.3.jar                     | None                                     |
+	| L     | jade                | 0.1.0                      | Jade-0.1.0.jar                                     | None                                     |
+	| L     | mospells            | 1.12.2-1.0.4               | MoSpells-1.12.2-1.0.4.jar                          | None                                     |
+	| L     | llibrary            | 1.7.20                     | llibrary-1.7.20-1.12.2.jar                         | None                                     |
+
+	Loaded coremods (and transformers): 
+MSICCoreMod (MyServerIsCompatible-1.12.2-1.0.jar)
+  
+LoadingPlugin (TickDynamic-1.12.2-1.0.3.jar)
+  com.wildex999.patcher.TransformerPatcher
+  com.wildex999.patcher.EntityInjector
+MicdoodlePlugin (Galacticraft-1.12.2-4.0.6.jar)
+  micdoodle8.mods.miccore.MicdoodleTransformer
+ParticleCullingLoadingPlugin (particleculling-1.12.2-v1.3.1.jar)
+  
+MekanismCoremod (Mekanism-1.12.2-9.8.3.390.jar)
+  mekanism.coremod.KeybindingMigrationHelper
+Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (foamfix-0.10.14-1.12.2.jar)
+  pl.asie.foamfix.coremod.FoamFixTransformer
+SpartanWeaponry-MixinLoader (SpartanWeaponry-1.12.2-1.6.0.jar)
+  
+iceandfire (iceandfire-1.9.1-1.12.2.jar)
+  com.github.alexthe666.iceandfire.patcher.IceAndFireRuntimePatcher
+CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+  team.chisel.ctm.client.asm.CTMTransformer
+Born in a Barn (Born In A Barn V1.8-1.12-1.1.jar)
+  com.chocohead.biab.BornInABarn
+EntityCullingEarlyLoader (entityculling-1.12.2-1.6.3.jar)
+  
+llibrary (llibrary-core-1.0.11-1.12.2.jar)
+  net.ilexiconn.llibrary.server.core.plugin.LLibraryTransformer
+  net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+CreativePatchingLoader (CreativeCore_v1.10.71_mc1.12.2.jar)
+  
+MixinBooter (!mixinbooter-10.5.jar)
+  
+MalisisCorePlugin (malisiscore-1.12.2-6.5.1.jar)
+  
+SurgeLoadingPlugin (Surge-1.12.2-2.0.77.jar)
+  
+Better Biome Blend (betterbiomeblend-1.12.2-1.1.7-forge.jar)
+  
+GITDLoadingPlugin (getittogetherdrops-1.12.2-v1.0.jar)
+  
+ClsPlugin (CustomLoadingScreen-1.12.2-1.5.6.jar)
+  alexiil.mc.mod.load.coremod.ClsTransformer
+FutureMC (Future-MC-0.2.21.jar)
+  
+	Profiler Position: N/A (disabled)
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
