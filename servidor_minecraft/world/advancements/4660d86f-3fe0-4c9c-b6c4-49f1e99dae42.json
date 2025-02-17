@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-17 21:31:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-02-16 20:58:31 +0000"
@@ -176,6 +182,12 @@
   "fossil:fossil/stone_tablet": {
     "criteria": {
       "iron_pickaxe": "2025-02-17 01:38:22 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:find_library_ruins": {
+    "criteria": {
+      "surface": "2025-02-17 21:36:04 +0000"
     },
     "done": true
   },
@@ -840,6 +852,12 @@
     },
     "done": true
   },
+  "ebwizardry:handbook/arcane_workbench": {
+    "criteria": {
+      "criteria_0": "2025-02-17 21:32:03 +0000"
+    },
+    "done": true
+  },
   "fossil:fossil/tar_fossil": {
     "criteria": {
       "tar_drop": "2025-02-17 01:39:26 +0000"
@@ -1008,6 +1026,12 @@
     },
     "done": true
   },
+  "ebwizardry:wizard_tower": {
+    "criteria": {
+      "criteria_0": "2025-02-17 21:31:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2025-02-17 00:45:10 +0000"
@@ -1017,6 +1041,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-16 21:45:39 +0000"
+    },
+    "done": true
+  },
+  "ebwizardry:anger_wizard": {
+    "criteria": {
+      "criteria_0": "2025-02-17 21:31:38 +0000"
     },
     "done": true
   },
@@ -1410,6 +1440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-17 21:31:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2025-02-16 20:58:31 +0000"
@@ -1654,6 +1690,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-02-16 21:00:09 +0000"
+    },
+    "done": true
+  },
+  "overlord:recipes/squad_editor": {
+    "criteria": {
+      "has_the_ingredients": "2025-02-17 21:31:48 +0000"
     },
     "done": true
   },
