@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "vampirism:vampire/extra_storage": {
+    "criteria": {
+      "blood_container": "2025-02-17 21:17:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-02-16 21:00:41 +0000"
@@ -906,6 +912,7 @@
       "skeleton": "2025-02-16 22:02:43 +0000",
       "husk": "2025-02-17 21:02:41 +0000",
       "zombie": "2025-02-16 23:07:08 +0000",
+      "witch": "2025-02-17 21:15:59 +0000",
       "spider": "2025-02-16 20:53:50 +0000",
       "creeper": "2025-02-16 22:10:54 +0000"
     },
