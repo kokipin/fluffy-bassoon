@@ -4625,3 +4625,170 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [21:49:21] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@5e2e49f1 as it does not exist in the list.
 [21:49:34] [Server thread/WARN] [tickdynamic]: Failed to remove: com.github.alexthe666.iceandfire.entity.tile.TileEntityMyrmexCocoon@2a630b3 as it does not exist in the list.
 [21:50:06] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@521bce5 as it does not exist in the list.
+[21:50:51] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@6a6e0c57 as it does not exist in the list.
+[21:51:36] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@599390d8 as it does not exist in the list.
+[21:52:21] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@14c19f42 as it does not exist in the list.
+[21:53:06] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@7748957b as it does not exist in the list.
+[21:53:51] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@da50f38 as it does not exist in the list.
+[21:54:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for plntvnss
+[21:54:11] [Server thread/INFO] [ebwizardry]: Synchronising advancements for plntvnss
+[21:54:36] [Server thread/WARN] [tickdynamic]: Failed to remove: com.github.alexthe666.iceandfire.entity.tile.TileEntityMyrmexCocoon@225367b2 as it does not exist in the list.
+[21:54:36] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@77ef4e33 as it does not exist in the list.
+[21:55:21] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@2d90c18e as it does not exist in the list.
+[21:56:06] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@20d4e85e as it does not exist in the list.
+[21:56:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: joaxco15 is bleeding...
+[21:56:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: joaxco15 did not like the sun
+[21:56:41] [Server thread/WARN] [tickdynamic]: Failed to remove: GCEntityPlayerMP['joaxco15'/171688, l='world', x=223.27, y=65.00, z=-376.01] as it does not exist in the list.
+[21:56:41] [Server thread/WARN] [tickdynamic]: Failed to remove: GCEntityPlayerMP['joaxco15'/171688, l='world', x=223.27, y=65.00, z=-376.01] as it does not exist in the list.
+[21:56:41] [Server thread/WARN] [tickdynamic]: Failed to remove: GCEntityPlayerMP['joaxco15'/171688, l='world', x=223.27, y=65.00, z=-376.01] as it does not exist in the list.
+[21:56:41] [Server thread/WARN] [tickdynamic]: Failed to remove: GCEntityPlayerMP['joaxco15'/171688, l='world', x=223.27, y=65.00, z=-376.01] as it does not exist in the list.
+[21:56:42] [Server thread/WARN] [tickdynamic]: Failed to remove: GCEntityPlayerMP['joaxco15'/171688, l='world', x=223.27, y=65.00, z=-376.01] as it does not exist in the list.
+[21:56:42] [Server thread/WARN] [tickdynamic]: Failed to remove: GCEntityPlayerMP['joaxco15'/171688, l='world', x=223.27, y=65.00, z=-376.01] as it does not exist in the list.
+[21:56:42] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to joaxco15
+[21:57:10] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: joaxco15 lost connection: Disconnected
+[21:57:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: joaxco15 left the game
+[21:57:20] [User Authenticator #8/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player joaxco15 is 4660d86f-3fe0-4c9c-b6c4-49f1e99dae42
+[21:57:20] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[21:57:20] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 91 mods : cyclopscore@1.6.7,mowziesmobs@1.5.8,mca@6.1.0,creativecoredummy@1.0.0,wi-zoom@1.0,animania@2.0.3.28,ebwizardry@4.3.14,jei@4.16.1.301,futuremc@0.2.6,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,mekanism@1.12.2-9.8.3.390,craftstudioapi@1.0.0,reap@1.5.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,artifacts@1.12.2-1.2.4,evilcraft@0.10.78,forgelin@1.8.4,surge@2.0.77,ironbackpacks@1.12.2-3.0.8-12,harvestcraft@1.12.2zb,extraplanets@1.12.2-0.8.0,mospells@1.12.2-1.0.4,foamfixcore@7.7.4,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2859,twilightforest@3.11.1021,extra_spells@1.2.0,malisisdoors@1.12.2-7.3.0,corpse@1.12.2-1.0.8,infernalmobs@1.7.6,minecraft@1.12.2,stackie@1.6.0.48,malisiscore@1.12.2-6.5.1-SNAPSHOT,enchdesc@1.1.15,tiquality@FAT-1.12.2-GAMMA-1.8.1-124,dynamiclights_entityclasses@1.0.1,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0,baubles@1.5.2,jade@0.1.0,creativecore@1.10.0,dynamiclights_dropitems@1.1.0,dynamiclights_mobequipment@1.1.0,wizardryutils@1.12.2-1.2.3,dynamiclights_flamearrows@1.0.1,totemic@1.12.2-0.11.7,evilcraftcompat@1.0.0,extrautils2@1.0,patchouli@1.0-23.6,spartanshields@1.5.5,betterbiomeblend@1.12.2-1.1.7-forge,lunatriuscore@1.2.0.42,overlord@2.4.14,customloadingscreen@1.12.2-1.5.6,galacticraftcore@4.0.6,performant@1.12.2-1.5,entityculling@@VER@,spartanfire@0.08,elevatorid@1.3.14,tfspellpack@1.1.0,FML@8.0.99.99,fastfurnace@1.3.1,spartanweaponry@1.6.0,appleskin@1.0.14,aiimprovements@0.0.1.3,connectedglass@1.1.1,vampirism@1.6.2,foamfix@@VERSION@,aquaculture@1.6.8,mjrlegendslib@1.12.2-1.2.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,msic@1.0,particleculling@v1.3,tickdynamic@1.0.3,playerrevive@1.0,essential@1.0.0
+[21:57:20] [Netty Epoll Server IO #4/INFO] [FML]: Attempting connection with missing mods [mixinbooter] at CLIENT
+[21:57:22] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:57:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: joaxco15[/127.181.221.49:52937] logged in with entity id 178999 at (223.52228091217154, 65.0, -376.0958821888751)
+[21:57:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: joaxco15 joined the game
+[21:57:23] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to joaxco15
+[21:57:23] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for joaxco15
+[21:57:23] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for joaxco15
+[21:57:23] [Server thread/INFO] [ebwizardry]: Synchronising config settings for joaxco15
+[21:57:23] [Server thread/INFO] [ebwizardry]: Synchronising advancements for joaxco15
+[21:57:23] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['joaxco15'/178999, l='world', x=223.52, y=65.00, z=-376.10] connected. Sending ping
+[21:57:23] [Server thread/INFO] [Mekanism]: Sent config to 'joaxco15.'
+[21:57:36] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@7e338727 as it does not exist in the list.
+[21:58:21] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@64f4b3a6 as it does not exist in the list.
+[21:58:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: joaxco15 lost connection: Timed out
+[21:58:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: joaxco15 left the game
+[21:59:06] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@59d4a2c4 as it does not exist in the list.
+[21:59:51] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@62e185d8 as it does not exist in the list.
+[22:00:13] [User Authenticator #9/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player joaxco15 is 4660d86f-3fe0-4c9c-b6c4-49f1e99dae42
+[22:00:14] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[22:00:14] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 91 mods : cyclopscore@1.6.7,mowziesmobs@1.5.8,mca@6.1.0,creativecoredummy@1.0.0,wi-zoom@1.0,animania@2.0.3.28,ebwizardry@4.3.14,jei@4.16.1.301,futuremc@0.2.6,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,mekanism@1.12.2-9.8.3.390,craftstudioapi@1.0.0,reap@1.5.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,artifacts@1.12.2-1.2.4,evilcraft@0.10.78,forgelin@1.8.4,surge@2.0.77,ironbackpacks@1.12.2-3.0.8-12,harvestcraft@1.12.2zb,extraplanets@1.12.2-0.8.0,mospells@1.12.2-1.0.4,foamfixcore@7.7.4,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2859,twilightforest@3.11.1021,extra_spells@1.2.0,malisisdoors@1.12.2-7.3.0,corpse@1.12.2-1.0.8,infernalmobs@1.7.6,minecraft@1.12.2,stackie@1.6.0.48,malisiscore@1.12.2-6.5.1-SNAPSHOT,enchdesc@1.1.15,tiquality@FAT-1.12.2-GAMMA-1.8.1-124,dynamiclights_entityclasses@1.0.1,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0,baubles@1.5.2,jade@0.1.0,creativecore@1.10.0,dynamiclights_dropitems@1.1.0,dynamiclights_mobequipment@1.1.0,wizardryutils@1.12.2-1.2.3,dynamiclights_flamearrows@1.0.1,totemic@1.12.2-0.11.7,evilcraftcompat@1.0.0,extrautils2@1.0,patchouli@1.0-23.6,spartanshields@1.5.5,betterbiomeblend@1.12.2-1.1.7-forge,lunatriuscore@1.2.0.42,overlord@2.4.14,customloadingscreen@1.12.2-1.5.6,galacticraftcore@4.0.6,performant@1.12.2-1.5,entityculling@@VER@,spartanfire@0.08,elevatorid@1.3.14,tfspellpack@1.1.0,FML@8.0.99.99,fastfurnace@1.3.1,spartanweaponry@1.6.0,appleskin@1.0.14,aiimprovements@0.0.1.3,connectedglass@1.1.1,vampirism@1.6.2,foamfix@@VERSION@,aquaculture@1.6.8,mjrlegendslib@1.12.2-1.2.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,msic@1.0,particleculling@v1.3,tickdynamic@1.0.3,playerrevive@1.0,essential@1.0.0
+[22:00:14] [Netty Epoll Server IO #5/INFO] [FML]: Attempting connection with missing mods [mixinbooter] at CLIENT
+[22:00:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:00:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: joaxco15[/127.181.221.49:42635] logged in with entity id 180742 at (223.52228091217154, 65.0, -376.0958821888751)
+[22:00:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: joaxco15 joined the game
+[22:00:16] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to joaxco15
+[22:00:16] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for joaxco15
+[22:00:16] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for joaxco15
+[22:00:16] [Server thread/INFO] [ebwizardry]: Synchronising config settings for joaxco15
+[22:00:16] [Server thread/INFO] [ebwizardry]: Synchronising advancements for joaxco15
+[22:00:16] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['joaxco15'/180742, l='world', x=223.52, y=65.00, z=-376.10] connected. Sending ping
+[22:00:16] [Server thread/INFO] [Mekanism]: Sent config to 'joaxco15.'
+[22:00:36] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@4fcee8c9 as it does not exist in the list.
+[22:01:07] [Server thread/WARN] [tickdynamic]: Failed to remove: electroblob.wizardry.tileentity.TileEntityReceptacle@5aff618a as it does not exist in the list.
+[22:01:21] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@4d5dae9d as it does not exist in the list.
+[22:01:37] [Server thread/WARN] [tickdynamic]: Failed to remove: com.github.alexthe666.iceandfire.entity.tile.TileEntityMyrmexCocoon@5d2f85fd as it does not exist in the list.
+[22:02:06] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@43d5360e as it does not exist in the list.
+[22:02:51] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@3f4237ef as it does not exist in the list.
+[22:02:51] [Server thread/INFO] [ebwizardry]: Synchronising advancements for plntvnss
+[22:02:51] [Server thread/INFO] [ebwizardry]: Synchronising advancements for plntvnss
+[22:03:36] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@15d8fde as it does not exist in the list.
+[22:04:21] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@2d1c4ed as it does not exist in the list.
+[22:05:06] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@65135aee as it does not exist in the list.
+[22:05:51] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@479c2c7f as it does not exist in the list.
+[22:05:55] [Server thread/WARN] [tickdynamic]: Failed to remove: pokefenn.totemic.tileentity.TileTipi@56ecc450 as it does not exist in the list.
+[22:05:55] [Server thread/WARN] [tickdynamic]: Failed to remove: pokefenn.totemic.tileentity.TileTipi@45990ad4 as it does not exist in the list.
+[22:05:55] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@dd50b7 as it does not exist in the list.
+[22:05:59] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityFigurine@47283681 as it does not exist in the list.
+[22:05:59] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityAmphora@467e6fd8 as it does not exist in the list.
+[22:05:59] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityVolute@5eafd422 as it does not exist in the list.
+[22:05:59] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityFigurine@44d7b3ed as it does not exist in the list.
+[22:05:59] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityFigurine@70fab734 as it does not exist in the list.
+[22:05:59] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@716202b6 as it does not exist in the list.
+[22:05:59] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityFigurine@17e2d6ba as it does not exist in the list.
+[22:06:00] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185657, l='world', x=0.00, y=0.00, z=0.00] as it does not exist in the list.
+[22:06:00] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185658, l='world', x=0.00, y=0.00, z=0.00] as it does not exist in the list.
+[22:06:00] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185659, l='world', x=0.00, y=0.00, z=0.00] as it does not exist in the list.
+[22:06:00] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185660, l='world', x=0.00, y=0.00, z=0.00] as it does not exist in the list.
+[22:06:00] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185661, l='world', x=0.00, y=0.00, z=0.00] as it does not exist in the list.
+[22:06:00] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185662, l='world', x=0.00, y=0.00, z=0.00] as it does not exist in the list.
+[22:06:00] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185663, l='world', x=0.00, y=0.00, z=0.00] as it does not exist in the list.
+[22:06:00] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185664, l='world', x=0.00, y=0.00, z=0.00] as it does not exist in the list.
+[22:06:00] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185665, l='world', x=0.00, y=0.00, z=0.00] as it does not exist in the list.
+[22:06:00] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185666, l='world', x=0.00, y=0.00, z=0.00] as it does not exist in the list.
+[22:06:03] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185868, l='world', x=0.00, y=0.00, z=0.00] as it does not exist in the list.
+[22:06:03] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185869, l='world', x=0.00, y=0.00, z=0.00] as it does not exist in the list.
+[22:06:03] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185870, l='world', x=0.00, y=0.00, z=0.00] as it does not exist in the list.
+[22:06:03] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185871, l='world', x=0.00, y=0.00, z=0.00] as it does not exist in the list.
+[22:06:03] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185872, l='world', x=0.00, y=0.00, z=0.00] as it does not exist in the list.
+[22:06:03] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185873, l='world', x=0.00, y=0.00, z=0.00] as it does not exist in the list.
+[22:06:03] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185874, l='world', x=0.00, y=0.00, z=0.00] as it does not exist in the list.
+[22:06:03] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185875, l='world', x=0.00, y=0.00, z=0.00] as it does not exist in the list.
+[22:06:03] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185876, l='world', x=0.00, y=0.00, z=0.00] as it does not exist in the list.
+[22:06:03] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185877, l='world', x=0.00, y=0.00, z=0.00] as it does not exist in the list.
+[22:06:06] [Server thread/INFO] [ebwizardry]: Synchronising advancements for plntvnss
+[22:06:06] [Server thread/INFO] [ebwizardry]: Synchronising advancements for plntvnss
+[22:06:06] [Server thread/INFO] [ebwizardry]: Synchronising advancements for plntvnss
+[22:06:06] [Server thread/INFO] [ebwizardry]: Synchronising advancements for plntvnss
+[22:06:06] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185878, l='world', x=506.41, y=96.20, z=-266.92] as it does not exist in the list.
+[22:06:06] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185879, l='world', x=506.64, y=96.23, z=-266.86] as it does not exist in the list.
+[22:06:06] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185880, l='world', x=507.00, y=96.17, z=-267.12] as it does not exist in the list.
+[22:06:06] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185881, l='world', x=507.10, y=96.10, z=-267.22] as it does not exist in the list.
+[22:06:06] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185882, l='world', x=506.83, y=96.17, z=-266.47] as it does not exist in the list.
+[22:06:06] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185883, l='world', x=506.88, y=96.10, z=-266.33] as it does not exist in the list.
+[22:06:06] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185884, l='world', x=507.16, y=96.20, z=-266.74] as it does not exist in the list.
+[22:06:06] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185885, l='world', x=507.29, y=96.15, z=-266.70] as it does not exist in the list.
+[22:06:06] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185886, l='world', x=507.40, y=96.12, z=-266.67] as it does not exist in the list.
+[22:06:06] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/185887, l='world', x=507.55, y=96.08, z=-266.64] as it does not exist in the list.
+[22:06:10] [Server thread/WARN] [tickdynamic]: Failed to remove: de.teamlapen.vampirism.tileentity.TileBloodContainer@73d797a4 as it does not exist in the list.
+[22:06:10] [Server thread/WARN] [tickdynamic]: Failed to remove: de.teamlapen.vampirism.tileentity.TileBloodContainer@52cff03b as it does not exist in the list.
+[22:06:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [joaxco15: Teleported joaxco15 to plntvnss]
+[22:06:27] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/186026, l='world', x=431.19, y=86.37, z=-258.06] as it does not exist in the list.
+[22:06:27] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/186027, l='world', x=433.64, y=86.76, z=-259.34] as it does not exist in the list.
+[22:06:27] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/186028, l='world', x=434.79, y=85.97, z=-264.39] as it does not exist in the list.
+[22:06:27] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/186032, l='world', x=439.24, y=86.37, z=-262.26] as it does not exist in the list.
+[22:06:27] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/186029, l='world', x=434.95, y=85.18, z=-266.16] as it does not exist in the list.
+[22:06:27] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/186033, l='world', x=440.64, y=85.78, z=-262.99] as it does not exist in the list.
+[22:06:27] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/186030, l='world', x=438.44, y=85.97, z=-257.39] as it does not exist in the list.
+[22:06:27] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/186034, l='world', x=441.86, y=85.38, z=-263.63] as it does not exist in the list.
+[22:06:27] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/186035, l='world', x=443.44, y=84.99, z=-264.45] as it does not exist in the list.
+[22:06:27] [Server thread/WARN] [tickdynamic]: Failed to remove: EntityDragonPart['unknown'/186031, l='world', x=439.99, y=85.18, z=-256.51] as it does not exist in the list.
+[22:06:27] [Server thread/WARN] [tickdynamic]: Failed to remove: electroblob.wizardry.tileentity.TileEntityReceptacle@1109ce77 as it does not exist in the list.
+[22:06:36] [Server thread/WARN] [tickdynamic]: Failed to remove: de.teamlapen.vampirism.tileentity.TileBloodContainer@4ac2a7b8 as it does not exist in the list.
+[22:06:36] [Server thread/WARN] [tickdynamic]: Failed to remove: de.teamlapen.vampirism.tileentity.TileBloodContainer@2f3ccfdb as it does not exist in the list.
+[22:06:36] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@e82b7e7 as it does not exist in the list.
+[22:06:36] [Server thread/WARN] [tickdynamic]: Failed to remove: de.teamlapen.vampirism.tileentity.TileBloodContainer@2e0d5df5 as it does not exist in the list.
+[22:06:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: joaxco15 lost connection: Disconnected
+[22:06:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: joaxco15 left the game
+[22:06:54] [User Authenticator #10/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: UUID of player joaxco15 is 4660d86f-3fe0-4c9c-b6c4-49f1e99dae42
+[22:06:54] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[22:06:54] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 91 mods : cyclopscore@1.6.7,mowziesmobs@1.5.8,mca@6.1.0,creativecoredummy@1.0.0,wi-zoom@1.0,animania@2.0.3.28,ebwizardry@4.3.14,jei@4.16.1.301,futuremc@0.2.6,dynamiclights_theplayer@1.1.3,dynamiclights_floodlights@1.0.3,dynamiclights@1.4.9,mekanism@1.12.2-9.8.3.390,craftstudioapi@1.0.0,reap@1.5.2,waystones@4.1.0,mcp@9.42,clumps@3.1.2,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1p3,artifacts@1.12.2-1.2.4,evilcraft@0.10.78,forgelin@1.8.4,surge@2.0.77,ironbackpacks@1.12.2-3.0.8-12,harvestcraft@1.12.2zb,extraplanets@1.12.2-0.8.0,mospells@1.12.2-1.0.4,foamfixcore@7.7.4,llibrary@1.7.20,dynamiclights_otherplayers@1.0.9,fossil@8.0.5,iceandfire@1.9.1,waila@1.8.26,galacticraftplanets@4.0.6,micdoodlecore@4.0.6,fpsreducer@mc1.12.2-1.20,teamlapen-lib@1.6.2,forge@14.23.5.2859,twilightforest@3.11.1021,extra_spells@1.2.0,malisisdoors@1.12.2-7.3.0,corpse@1.12.2-1.0.8,infernalmobs@1.7.6,minecraft@1.12.2,stackie@1.6.0.48,malisiscore@1.12.2-6.5.1-SNAPSHOT,enchdesc@1.1.15,tiquality@FAT-1.12.2-GAMMA-1.8.1-124,dynamiclights_entityclasses@1.0.1,biomesoplenty@7.0.1.2445,getittogetherdrops@1.0,baubles@1.5.2,jade@0.1.0,creativecore@1.10.0,dynamiclights_dropitems@1.1.0,dynamiclights_mobequipment@1.1.0,wizardryutils@1.12.2-1.2.3,dynamiclights_flamearrows@1.0.1,totemic@1.12.2-0.11.7,evilcraftcompat@1.0.0,extrautils2@1.0,patchouli@1.0-23.6,spartanshields@1.5.5,betterbiomeblend@1.12.2-1.1.7-forge,lunatriuscore@1.2.0.42,overlord@2.4.14,customloadingscreen@1.12.2-1.5.6,galacticraftcore@4.0.6,performant@1.12.2-1.5,entityculling@@VER@,spartanfire@0.08,elevatorid@1.3.14,tfspellpack@1.1.0,FML@8.0.99.99,fastfurnace@1.3.1,spartanweaponry@1.6.0,appleskin@1.0.14,aiimprovements@0.0.1.3,connectedglass@1.1.1,vampirism@1.6.2,foamfix@@VERSION@,aquaculture@1.6.8,mjrlegendslib@1.12.2-1.2.1,dynamiclights_onfire@1.0.7,dynamiclights_creepers@1.0.6,msic@1.0,particleculling@v1.3,tickdynamic@1.0.3,playerrevive@1.0,essential@1.0.0
+[22:06:54] [Netty Epoll Server IO #7/INFO] [FML]: Attempting connection with missing mods [mixinbooter] at CLIENT
+[22:06:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:06:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: joaxco15[/127.181.221.49:35849] logged in with entity id 186577 at (223.4482263124732, 65.0, -370.41107264707614)
+[22:06:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: joaxco15 joined the game
+[22:06:57] [Server thread/INFO] [ebwizardry]: Sending global donation perk settings to joaxco15
+[22:06:57] [Server thread/INFO] [ebwizardry]: Synchronising spell glyph data for joaxco15
+[22:06:57] [Server thread/INFO] [ebwizardry]: Synchronising spell emitters for joaxco15
+[22:06:57] [Server thread/INFO] [ebwizardry]: Synchronising config settings for joaxco15
+[22:06:57] [Server thread/INFO] [ebwizardry]: Synchronising advancements for joaxco15
+[22:06:57] [Server thread/INFO] [Waila]: Player GCEntityPlayerMP['joaxco15'/186577, l='world', x=223.45, y=65.00, z=-370.41] connected. Sending ping
+[22:06:57] [Server thread/INFO] [Mekanism]: Sent config to 'joaxco15.'
+[22:07:21] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@41ccd238 as it does not exist in the list.
+[22:08:06] [Server thread/WARN] [tickdynamic]: Failed to remove: pokefenn.totemic.tileentity.TileTipi@69d874c5 as it does not exist in the list.
+[22:08:06] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@fc79952 as it does not exist in the list.
+[22:08:06] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityVolute@38feb699 as it does not exist in the list.
+[22:08:06] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityAmphora@10e4eca0 as it does not exist in the list.
+[22:08:06] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityFigurine@6c6cb0a5 as it does not exist in the list.
+[22:08:06] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityFigurine@38f1f5e6 as it does not exist in the list.
+[22:08:06] [Server thread/WARN] [tickdynamic]: Failed to remove: pokefenn.totemic.tileentity.TileTipi@364c37ef as it does not exist in the list.
+[22:08:06] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityFigurine@19849ead as it does not exist in the list.
+[22:08:06] [Server thread/WARN] [tickdynamic]: Failed to remove: net.minecraft.tileentity.TileEntityFlowerPot@759b7033 as it does not exist in the list.
+[22:08:06] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@3f9e0bad as it does not exist in the list.
+[22:08:06] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityFigurine@e0fc97b as it does not exist in the list.
+[22:08:38] [Server thread/WARN] [tickdynamic]: Failed to remove: com.github.alexthe666.iceandfire.entity.tile.TileEntityMyrmexCocoon@38b4b7c1 as it does not exist in the list.
+[22:08:51] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@368aa859 as it does not exist in the list.
+[22:09:24] [Server thread/WARN] [tickdynamic]: Failed to remove: com.github.alexthe666.iceandfire.entity.tile.TileEntityMyrmexCocoon@4e3bfeef as it does not exist in the list.
+[22:09:36] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@68721462 as it does not exist in the list.
+[22:09:43] [Server thread/WARN] [tickdynamic]: Failed to remove: com.github.alexthe666.iceandfire.entity.tile.TileEntityMyrmexCocoon@15e4473b as it does not exist in the list.
+[22:09:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for plntvnss
+[22:09:47] [Server thread/INFO] [ebwizardry]: Synchronising advancements for plntvnss
+[22:10:11] [Server thread/WARN] [tickdynamic]: Failed to remove: com.github.alexthe666.iceandfire.entity.tile.TileEntityMyrmexCocoon@6c12fdb4 as it does not exist in the list.
+[22:10:21] [Server thread/WARN] [tickdynamic]: Failed to remove: fossilsarcheology.server.block.entity.TileEntityKylix@2bca949a as it does not exist in the list.

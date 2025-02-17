@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-17 22:09:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 01:09:03 +0000"
@@ -272,6 +278,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 01:09:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-02-17 22:02:51 +0000"
     },
     "done": true
   },
@@ -767,6 +779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-02-17 22:02:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-02-16 20:58:11 +0000"
@@ -812,6 +830,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-02-17 02:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-02-17 22:06:06 +0000"
     },
     "done": true
   },
@@ -941,6 +965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-17 21:54:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-02-16 20:52:15 +0000"
@@ -1026,6 +1056,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-02-17 22:06:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-02-17 01:09:03 +0000"
@@ -1080,6 +1116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-17 21:54:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_stone": "2025-02-17 01:31:38 +0000"
@@ -1089,6 +1131,12 @@
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_bonemeal": "2025-02-16 23:29:18 +0000"
+    },
+    "done": true
+  },
+  "overlord:recipes/cake": {
+    "criteria": {
+      "has_the_original_recipe": "2025-02-17 22:09:47 +0000"
     },
     "done": true
   },
@@ -1150,6 +1198,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-02-17 01:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-02-17 22:06:06 +0000"
     },
     "done": true
   },
@@ -1252,6 +1306,12 @@
   "biomesoplenty:recipes/misc/sand_from_dried_sand": {
     "criteria": {
       "has_gem_block": "2025-02-17 01:41:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2025-02-17 22:06:06 +0000"
     },
     "done": true
   },
