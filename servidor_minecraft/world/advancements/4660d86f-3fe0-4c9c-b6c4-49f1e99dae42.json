@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-02-17 22:35:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-02-16 20:45:34 +0000"
@@ -1881,6 +1887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-02-17 22:35:55 +0000"
+    },
+    "done": true
+  },
   "ebwizardry:handbook/crystal_flowers": {
     "criteria": {
       "criteria_0": "2025-02-16 20:54:49 +0000"
@@ -1920,6 +1932,12 @@
   "vampirism:vampire/become_vampire": {
     "criteria": {
       "main": "2025-02-17 02:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lit_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-02-17 22:35:55 +0000"
     },
     "done": true
   },
